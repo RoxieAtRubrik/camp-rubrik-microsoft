@@ -18,7 +18,7 @@ Notice that the **Manage Protection** button in the upper right-hand corner illu
 
 To place a granular policy on an individual object:
 
-Select the **VMs** tab. The **VMs** page appears. Search for your Linux virtual machine running on vSphere. Type in `ubuntu` in the **Search by Name** field to locate the assigned Linux VM \(`ubuntu14-vm1`\).
+Select the **VMs** tab. The **VMs** page appears. Search for your Linux virtual machine running on vSphere. Type in `ubuntu` in the **Search by Name** field to locate the assigned Linux VM (`ubuntu14-vm1`).
 
 ![](https://lh6.googleusercontent.com/OVKmVWpu4nEBZEKrZIt7yMawI-gOnBUNYatIBXYYDFd1NAn-CsywDyPT1OXMq4XNfMAHLmadoCf21UtxgVnr0ZOm5R44JyLwTFh8IOXwcyIyXNQXpuBUP8mTNThmGsZ19djNX6ym)
 
@@ -37,4 +37,3 @@ Click **Submit**.
 The VM will soon update to reflect it is protected by the selected SLA Domain.
 
 You have now completed the Orienteering badge!
-

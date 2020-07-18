@@ -4,7 +4,7 @@ The System page is where you can see various hardware and storage metrics at a g
 
 In the Rubrik UI, in the left-hand pane, click **System**.
 
-Note the resource configurations for the entire cluster: \# of nodes, cores, memory, and more.
+Note the resource configurations for the entire cluster: # of nodes, cores, memory, and more.
 
 ![](https://lh5.googleusercontent.com/bTfgTFdYjLbpbKIGiMbRcy1bzdbAxzodDeAx752uPoezDqbCvzgdgs-KnSFPDY6wU6nHbp2y1APx5KHTY5UfuBVw30W-Rknq-6bZglPZn6fMs4H6euIOi2p28tqRTbT-iXeaAMpr)
 
@@ -19,4 +19,3 @@ Note the other metrics available - I/O Throughput, IOPs, and Storage.
 To determine whether the I/O Throughput is trending optimally based on your network you can view it easily here and make a decision to investigate further.
 
 ![](https://lh4.googleusercontent.com/HqHa2TPBPfyAqNIzLhjySbcUBp3aRqgTgG3SVMyt9Gwxm8T0N1A_xzFUg3eDfTmCDc-zRkYc7vkDzzIvhgRqrDC6enPyHa0XzTnRTe9phr8QuB6AvZK44CtCcYvM3QP52ZUnhGJ_)
-

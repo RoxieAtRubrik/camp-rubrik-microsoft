@@ -12,4 +12,3 @@ A **Configure Cloud Conversion** dialog will appear, in which you may toggle the
 ![](https://lh6.googleusercontent.com/rvggBTcwfRkdlFKUdwF9JE791H3GdZeZji9ndKsuOGHWWpkuW8vNUqrhCXvMv9e1OhqDHJ5BbgFnv8g67PkV2MhY7jzOluLwWDt9wWTUbq0yU8rKBbvvJrYiJkaCDfdBavXKPnE2)
 
 This configuration results in the latest snapshot being converted into a cloud image, for example, a VHD. This image can be used to spin up as many instances of the workload as desired.
-
