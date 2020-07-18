@@ -33,4 +33,3 @@ Enable the **Archival** toggle and select `NFS:myarchive` from the dropdown box.
 ![](https://lh5.googleusercontent.com/m--dYrP3FukQSOFILFpMC3prYCgLzEA4R6aYCLyG5pLnaQPI6eosoQ8QKteiXLmsFSp0Lc9jCwKa_oA60PO5MWUg2djKgDZWZKtxEAdPkhr_Cq6QGciZyBBm21N5euN0l8b2gRk4)
 
 Review and then click **Create** to finish.
-
